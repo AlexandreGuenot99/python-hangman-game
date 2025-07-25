@@ -9,7 +9,7 @@ vegetables = [
     "Onion",
     "Garlic",
     "Kale"
-],
+]
 fruits = [
     "Apple",
     "Banana",
@@ -21,4 +21,16 @@ fruits = [
     "Pineapple",
     "Watermelon",
     "Kiwi"
+]
+instruments = [
+    "Piano", 
+    "Guitar", 
+    "Violin", 
+    "Drums", 
+    "Flute", 
+    "Saxophone", 
+    "Trumpet", 
+    "Cello", 
+    "Clarinet",
+    "Harp"
 ]
